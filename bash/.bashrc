@@ -121,3 +121,6 @@ export PATH="$HOME/.local/bin:$PATH"
 export PATH="$PATH:/home/ryo/git/multi-claude-code/bin"
 . "$HOME/.cargo/env"
 export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
+
+# moonbit
+export PATH="$HOME/.moon/bin:$PATH"
