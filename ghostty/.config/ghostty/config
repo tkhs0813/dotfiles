@@ -49,3 +49,5 @@
 # resize-overlay-duration = 4s 200ms
 
 font-family = HackNerdFont
+font-size = 14
+theme = Catppuccin Mocha
