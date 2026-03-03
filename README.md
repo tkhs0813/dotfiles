@@ -8,7 +8,7 @@
 sudo apt install stow
 git clone git@github.com:tkhs0813/dotfiles.git ~/dotfiles
 cd ~/dotfiles
-stow bash ghostty nvim
+stow bash ghostty nvim claude
 ```
 
 ## パッケージ
@@ -17,4 +17,5 @@ stow bash ghostty nvim
 |---|---|
 | `bash` | `.bashrc`, `.profile` |
 | `ghostty` | Ghostty ターミナル設定 |
-| `nvim` | Neovim 設定 |
+| `nvim` | Neovim 設定 (LazyVim) |
+| `claude` | Claude Code 設定 |
